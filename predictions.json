@@ -1,0 +1,970 @@
+[
+  {
+    "timestamp": "2026-03-07 11:43:11",
+    "cnn_result": "Normal",
+    "cnn_confidence": 0.9244112968444824,
+    "lstm_result": "Normal",
+    "lstm_confidence": 0.9806124567985535,
+    "source": "auto:row0"
+  },
+  {
+    "timestamp": "2026-03-07 11:43:15",
+    "cnn_result": "Backdoor",
+    "cnn_confidence": 0.6252207159996033,
+    "lstm_result": "Backdoor",
+    "lstm_confidence": 0.8838767409324646,
+    "source": "auto:row1"
+  },
+  {
+    "timestamp": "2026-03-07 11:43:19",
+    "cnn_result": "Backdoor",
+    "cnn_confidence": 0.5383123159408569,
+    "lstm_result": "Backdoor",
+    "lstm_confidence": 0.7684677839279175,
+    "source": "auto:row2"
+  },
+  {
+    "timestamp": "2026-03-07 11:43:23",
+    "cnn_result": "DoS",
+    "cnn_confidence": 0.892731785774231,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.9842895865440369,
+    "source": "auto:row3"
+  },
+  {
+    "timestamp": "2026-03-07 11:43:27",
+    "cnn_result": "Fuzzers",
+    "cnn_confidence": 0.7260243892669678,
+    "lstm_result": "Fuzzers",
+    "lstm_confidence": 0.33173519372940063,
+    "source": "auto:row4"
+  },
+  {
+    "timestamp": "2026-03-07 11:43:34",
+    "cnn_result": "Exploits",
+    "cnn_confidence": 0.3572066128253937,
+    "lstm_result": "Shellcode",
+    "lstm_confidence": 0.6044375896453857,
+    "source": "manual"
+  },
+  {
+    "timestamp": "2026-03-07 14:50:41",
+    "cnn_result": "Normal",
+    "cnn_confidence": 0.9244112968444824,
+    "lstm_result": "Normal",
+    "lstm_confidence": 0.9806124567985535,
+    "source": "auto:row0"
+  },
+  {
+    "timestamp": "2026-03-07 14:50:45",
+    "cnn_result": "Backdoor",
+    "cnn_confidence": 0.6252207159996033,
+    "lstm_result": "Backdoor",
+    "lstm_confidence": 0.8838767409324646,
+    "source": "auto:row1"
+  },
+  {
+    "timestamp": "2026-03-07 14:50:48",
+    "cnn_result": "Backdoor",
+    "cnn_confidence": 0.5383123159408569,
+    "lstm_result": "Backdoor",
+    "lstm_confidence": 0.7684677839279175,
+    "source": "auto:row2"
+  },
+  {
+    "timestamp": "2026-03-07 14:50:51",
+    "cnn_result": "DoS",
+    "cnn_confidence": 0.892731785774231,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.9842895865440369,
+    "source": "auto:row3"
+  },
+  {
+    "timestamp": "2026-03-07 14:50:56",
+    "cnn_result": "Exploits",
+    "cnn_confidence": 0.3572066128253937,
+    "lstm_result": "Shellcode",
+    "lstm_confidence": 0.6044375896453857,
+    "source": "manual"
+  },
+  {
+    "timestamp": "2026-03-07 14:59:23",
+    "cnn_result": "Fuzzers",
+    "cnn_confidence": 0.3545364439487457,
+    "lstm_result": "Normal",
+    "lstm_confidence": 0.6640313267707825,
+    "source": "manual"
+  },
+  {
+    "timestamp": "2026-03-07 14:59:29",
+    "cnn_result": "Analysis",
+    "cnn_confidence": 0.47694137692451477,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.9467554092407227,
+    "source": "manual"
+  },
+  {
+    "timestamp": "2026-03-07 14:59:35",
+    "cnn_result": "Fuzzers",
+    "cnn_confidence": 0.3545364439487457,
+    "lstm_result": "Normal",
+    "lstm_confidence": 0.6640313267707825,
+    "source": "manual"
+  },
+  {
+    "timestamp": "2026-03-07 14:59:40",
+    "cnn_result": "Normal",
+    "cnn_confidence": 0.9244112968444824,
+    "lstm_result": "Normal",
+    "lstm_confidence": 0.9806124567985535,
+    "source": "auto:row0"
+  },
+  {
+    "timestamp": "2026-03-07 14:59:43",
+    "cnn_result": "Backdoor",
+    "cnn_confidence": 0.6252207159996033,
+    "lstm_result": "Backdoor",
+    "lstm_confidence": 0.8838767409324646,
+    "source": "auto:row1"
+  },
+  {
+    "timestamp": "2026-03-07 14:59:46",
+    "cnn_result": "Backdoor",
+    "cnn_confidence": 0.5383123159408569,
+    "lstm_result": "Backdoor",
+    "lstm_confidence": 0.7684677839279175,
+    "source": "auto:row2"
+  },
+  {
+    "timestamp": "2026-03-07 14:59:49",
+    "cnn_result": "DoS",
+    "cnn_confidence": 0.892731785774231,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.9842895865440369,
+    "source": "auto:row3"
+  },
+  {
+    "timestamp": "2026-03-07 14:59:52",
+    "cnn_result": "Fuzzers",
+    "cnn_confidence": 0.7260243892669678,
+    "lstm_result": "Fuzzers",
+    "lstm_confidence": 0.33173519372940063,
+    "source": "auto:row4"
+  },
+  {
+    "timestamp": "2026-03-07 14:59:55",
+    "cnn_result": "DoS",
+    "cnn_confidence": 0.8853551149368286,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.9817325472831726,
+    "source": "auto:row5"
+  },
+  {
+    "timestamp": "2026-03-07 14:59:58",
+    "cnn_result": "DoS",
+    "cnn_confidence": 0.8747126460075378,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.9820647835731506,
+    "source": "auto:row6"
+  },
+  {
+    "timestamp": "2026-03-07 15:00:01",
+    "cnn_result": "Normal",
+    "cnn_confidence": 0.9724459052085876,
+    "lstm_result": "Normal",
+    "lstm_confidence": 0.9978674650192261,
+    "source": "auto:row7"
+  },
+  {
+    "timestamp": "2026-03-07 15:00:04",
+    "cnn_result": "Shellcode",
+    "cnn_confidence": 0.9931786060333252,
+    "lstm_result": "Shellcode",
+    "lstm_confidence": 0.9999960660934448,
+    "source": "auto:row8"
+  },
+  {
+    "timestamp": "2026-03-07 15:00:07",
+    "cnn_result": "Backdoor",
+    "cnn_confidence": 0.8298249840736389,
+    "lstm_result": "Backdoor",
+    "lstm_confidence": 0.9974616765975952,
+    "source": "auto:row9"
+  },
+  {
+    "timestamp": "2026-03-07 15:00:10",
+    "cnn_result": "Shellcode",
+    "cnn_confidence": 0.9902796149253845,
+    "lstm_result": "Shellcode",
+    "lstm_confidence": 0.9999902248382568,
+    "source": "auto:row10"
+  },
+  {
+    "timestamp": "2026-03-07 15:00:13",
+    "cnn_result": "Analysis",
+    "cnn_confidence": 0.8091214895248413,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.9702451825141907,
+    "source": "auto:row11"
+  },
+  {
+    "timestamp": "2026-03-07 15:00:16",
+    "cnn_result": "DoS",
+    "cnn_confidence": 0.9087076187133789,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.983050525188446,
+    "source": "auto:row12"
+  },
+  {
+    "timestamp": "2026-03-07 15:00:20",
+    "cnn_result": "Generic",
+    "cnn_confidence": 0.28107595443725586,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.6020660400390625,
+    "source": "auto:row13"
+  },
+  {
+    "timestamp": "2026-03-07 15:00:24",
+    "cnn_result": "Fuzzers",
+    "cnn_confidence": 0.24318364262580872,
+    "lstm_result": "Normal",
+    "lstm_confidence": 0.8185475468635559,
+    "source": "auto:row14"
+  },
+  {
+    "timestamp": "2026-03-07 15:00:27",
+    "cnn_result": "Shellcode",
+    "cnn_confidence": 0.9960457682609558,
+    "lstm_result": "Shellcode",
+    "lstm_confidence": 0.9999974966049194,
+    "source": "auto:row15"
+  },
+  {
+    "timestamp": "2026-03-07 15:00:30",
+    "cnn_result": "Generic",
+    "cnn_confidence": 0.7974908947944641,
+    "lstm_result": "Generic",
+    "lstm_confidence": 0.5051485300064087,
+    "source": "auto:row16"
+  },
+  {
+    "timestamp": "2026-03-07 15:00:33",
+    "cnn_result": "Shellcode",
+    "cnn_confidence": 0.9926127195358276,
+    "lstm_result": "Shellcode",
+    "lstm_confidence": 0.9999924898147583,
+    "source": "auto:row17"
+  },
+  {
+    "timestamp": "2026-03-07 15:00:37",
+    "cnn_result": "Backdoor",
+    "cnn_confidence": 0.4775850772857666,
+    "lstm_result": "Backdoor",
+    "lstm_confidence": 0.6454144716262817,
+    "source": "auto:row18"
+  },
+  {
+    "timestamp": "2026-03-07 15:05:36",
+    "cnn_result": "Fuzzers",
+    "cnn_confidence": 0.3545364439487457,
+    "lstm_result": "Normal",
+    "lstm_confidence": 0.6640313267707825,
+    "source": "manual"
+  },
+  {
+    "timestamp": "2026-03-07 15:05:43",
+    "cnn_result": "Analysis",
+    "cnn_confidence": 0.47694137692451477,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.9467554092407227,
+    "source": "manual"
+  },
+  {
+    "timestamp": "2026-03-07 15:11:54",
+    "cnn_result": "Exploits",
+    "cnn_confidence": 0.3572066128253937,
+    "lstm_result": "Shellcode",
+    "lstm_confidence": 0.6044375896453857,
+    "source": "manual"
+  },
+  {
+    "timestamp": "2026-03-07 15:12:01",
+    "cnn_result": "Normal",
+    "cnn_confidence": 0.9244112968444824,
+    "lstm_result": "Normal",
+    "lstm_confidence": 0.9806124567985535,
+    "source": "auto:row0"
+  },
+  {
+    "timestamp": "2026-03-07 15:12:05",
+    "cnn_result": "Backdoor",
+    "cnn_confidence": 0.6252207159996033,
+    "lstm_result": "Backdoor",
+    "lstm_confidence": 0.8838767409324646,
+    "source": "auto:row1"
+  },
+  {
+    "timestamp": "2026-03-07 15:12:08",
+    "cnn_result": "Backdoor",
+    "cnn_confidence": 0.5383123159408569,
+    "lstm_result": "Backdoor",
+    "lstm_confidence": 0.7684677839279175,
+    "source": "auto:row2"
+  },
+  {
+    "timestamp": "2026-03-07 15:12:11",
+    "cnn_result": "DoS",
+    "cnn_confidence": 0.892731785774231,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.9842895865440369,
+    "source": "auto:row3"
+  },
+  {
+    "timestamp": "2026-03-07 15:12:14",
+    "cnn_result": "Fuzzers",
+    "cnn_confidence": 0.7260243892669678,
+    "lstm_result": "Fuzzers",
+    "lstm_confidence": 0.33173519372940063,
+    "source": "auto:row4"
+  },
+  {
+    "timestamp": "2026-03-07 15:12:17",
+    "cnn_result": "DoS",
+    "cnn_confidence": 0.8853551149368286,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.9817325472831726,
+    "source": "auto:row5"
+  },
+  {
+    "timestamp": "2026-03-07 15:12:20",
+    "cnn_result": "DoS",
+    "cnn_confidence": 0.8747126460075378,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.9820647835731506,
+    "source": "auto:row6"
+  },
+  {
+    "timestamp": "2026-03-07 15:12:23",
+    "cnn_result": "Normal",
+    "cnn_confidence": 0.9724459052085876,
+    "lstm_result": "Normal",
+    "lstm_confidence": 0.9978674650192261,
+    "source": "auto:row7"
+  },
+  {
+    "timestamp": "2026-03-07 15:12:26",
+    "cnn_result": "Shellcode",
+    "cnn_confidence": 0.9931786060333252,
+    "lstm_result": "Shellcode",
+    "lstm_confidence": 0.9999960660934448,
+    "source": "auto:row8"
+  },
+  {
+    "timestamp": "2026-03-07 15:12:29",
+    "cnn_result": "Backdoor",
+    "cnn_confidence": 0.8298249840736389,
+    "lstm_result": "Backdoor",
+    "lstm_confidence": 0.9974616765975952,
+    "source": "auto:row9"
+  },
+  {
+    "timestamp": "2026-03-07 15:12:32",
+    "cnn_result": "Shellcode",
+    "cnn_confidence": 0.9902796149253845,
+    "lstm_result": "Shellcode",
+    "lstm_confidence": 0.9999902248382568,
+    "source": "auto:row10"
+  },
+  {
+    "timestamp": "2026-03-07 15:16:59",
+    "cnn_result": "Worms",
+    "cnn_confidence": 1.0,
+    "lstm_result": "Reconnaissance",
+    "lstm_confidence": 1.0,
+    "source": "manual"
+  },
+  {
+    "timestamp": "2026-03-07 15:17:06",
+    "cnn_result": "Worms",
+    "cnn_confidence": 1.0,
+    "lstm_result": "Analysis",
+    "lstm_confidence": 1.0,
+    "source": "manual"
+  },
+  {
+    "timestamp": "2026-03-07 15:18:12",
+    "cnn_result": "Fuzzers",
+    "cnn_confidence": 0.3545364439487457,
+    "lstm_result": "Normal",
+    "lstm_confidence": 0.6640313267707825,
+    "source": "manual"
+  },
+  {
+    "timestamp": "2026-03-07 15:18:18",
+    "cnn_result": "Analysis",
+    "cnn_confidence": 0.47694137692451477,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.9467554092407227,
+    "source": "manual"
+  },
+  {
+    "timestamp": "2026-03-07 15:18:24",
+    "cnn_result": "Normal",
+    "cnn_confidence": 0.9244112968444824,
+    "lstm_result": "Normal",
+    "lstm_confidence": 0.9806124567985535,
+    "source": "auto:row0"
+  },
+  {
+    "timestamp": "2026-03-07 15:18:27",
+    "cnn_result": "Backdoor",
+    "cnn_confidence": 0.6252207159996033,
+    "lstm_result": "Backdoor",
+    "lstm_confidence": 0.8838767409324646,
+    "source": "auto:row1"
+  },
+  {
+    "timestamp": "2026-03-07 15:18:30",
+    "cnn_result": "Backdoor",
+    "cnn_confidence": 0.5383123159408569,
+    "lstm_result": "Backdoor",
+    "lstm_confidence": 0.7684677839279175,
+    "source": "auto:row2"
+  },
+  {
+    "timestamp": "2026-03-07 15:18:33",
+    "cnn_result": "DoS",
+    "cnn_confidence": 0.892731785774231,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.9842895865440369,
+    "source": "auto:row3"
+  },
+  {
+    "timestamp": "2026-03-07 15:18:36",
+    "cnn_result": "Fuzzers",
+    "cnn_confidence": 0.7260243892669678,
+    "lstm_result": "Fuzzers",
+    "lstm_confidence": 0.33173519372940063,
+    "source": "auto:row4"
+  },
+  {
+    "timestamp": "2026-03-07 15:18:39",
+    "cnn_result": "DoS",
+    "cnn_confidence": 0.8853551149368286,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.9817325472831726,
+    "source": "auto:row5"
+  },
+  {
+    "timestamp": "2026-03-07 15:18:42",
+    "cnn_result": "DoS",
+    "cnn_confidence": 0.8747126460075378,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.9820647835731506,
+    "source": "auto:row6"
+  },
+  {
+    "timestamp": "2026-03-07 15:18:45",
+    "cnn_result": "Normal",
+    "cnn_confidence": 0.9724459052085876,
+    "lstm_result": "Normal",
+    "lstm_confidence": 0.9978674650192261,
+    "source": "auto:row7"
+  },
+  {
+    "timestamp": "2026-03-07 15:18:49",
+    "cnn_result": "Shellcode",
+    "cnn_confidence": 0.9931786060333252,
+    "lstm_result": "Shellcode",
+    "lstm_confidence": 0.9999960660934448,
+    "source": "auto:row8"
+  },
+  {
+    "timestamp": "2026-03-07 15:18:52",
+    "cnn_result": "Backdoor",
+    "cnn_confidence": 0.8298249840736389,
+    "lstm_result": "Backdoor",
+    "lstm_confidence": 0.9974616765975952,
+    "source": "auto:row9"
+  },
+  {
+    "timestamp": "2026-03-07 15:18:55",
+    "cnn_result": "Shellcode",
+    "cnn_confidence": 0.9902796149253845,
+    "lstm_result": "Shellcode",
+    "lstm_confidence": 0.9999902248382568,
+    "source": "auto:row10"
+  },
+  {
+    "timestamp": "2026-03-07 15:18:58",
+    "cnn_result": "Analysis",
+    "cnn_confidence": 0.8091214895248413,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.9702451825141907,
+    "source": "auto:row11"
+  },
+  {
+    "timestamp": "2026-03-07 15:19:01",
+    "cnn_result": "DoS",
+    "cnn_confidence": 0.9087076187133789,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.983050525188446,
+    "source": "auto:row12"
+  },
+  {
+    "timestamp": "2026-03-07 15:19:04",
+    "cnn_result": "Generic",
+    "cnn_confidence": 0.28107595443725586,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.6020660400390625,
+    "source": "auto:row13"
+  },
+  {
+    "timestamp": "2026-03-07 15:19:07",
+    "cnn_result": "Fuzzers",
+    "cnn_confidence": 0.24318364262580872,
+    "lstm_result": "Normal",
+    "lstm_confidence": 0.8185475468635559,
+    "source": "auto:row14"
+  },
+  {
+    "timestamp": "2026-03-07 15:19:10",
+    "cnn_result": "Shellcode",
+    "cnn_confidence": 0.9960457682609558,
+    "lstm_result": "Shellcode",
+    "lstm_confidence": 0.9999974966049194,
+    "source": "auto:row15"
+  },
+  {
+    "timestamp": "2026-03-07 15:19:13",
+    "cnn_result": "Generic",
+    "cnn_confidence": 0.7974908947944641,
+    "lstm_result": "Generic",
+    "lstm_confidence": 0.5051485300064087,
+    "source": "auto:row16"
+  },
+  {
+    "timestamp": "2026-03-07 15:19:16",
+    "cnn_result": "Shellcode",
+    "cnn_confidence": 0.9926127195358276,
+    "lstm_result": "Shellcode",
+    "lstm_confidence": 0.9999924898147583,
+    "source": "auto:row17"
+  },
+  {
+    "timestamp": "2026-03-07 15:19:19",
+    "cnn_result": "Backdoor",
+    "cnn_confidence": 0.4775850772857666,
+    "lstm_result": "Backdoor",
+    "lstm_confidence": 0.6454144716262817,
+    "source": "auto:row18"
+  },
+  {
+    "timestamp": "2026-03-07 15:19:22",
+    "cnn_result": "Exploits",
+    "cnn_confidence": 0.9365801811218262,
+    "lstm_result": "Exploits",
+    "lstm_confidence": 0.9983958601951599,
+    "source": "auto:row19"
+  },
+  {
+    "timestamp": "2026-03-07 15:19:25",
+    "cnn_result": "Normal",
+    "cnn_confidence": 0.9562152028083801,
+    "lstm_result": "Normal",
+    "lstm_confidence": 0.9914810657501221,
+    "source": "auto:row20"
+  },
+  {
+    "timestamp": "2026-03-07 15:19:28",
+    "cnn_result": "Backdoor",
+    "cnn_confidence": 0.8475024700164795,
+    "lstm_result": "Backdoor",
+    "lstm_confidence": 0.9987599849700928,
+    "source": "auto:row21"
+  },
+  {
+    "timestamp": "2026-03-07 15:19:31",
+    "cnn_result": "Exploits",
+    "cnn_confidence": 0.9517402648925781,
+    "lstm_result": "Exploits",
+    "lstm_confidence": 0.9987484216690063,
+    "source": "auto:row22"
+  },
+  {
+    "timestamp": "2026-03-07 15:19:35",
+    "cnn_result": "Normal",
+    "cnn_confidence": 0.9494698643684387,
+    "lstm_result": "Normal",
+    "lstm_confidence": 0.9941697120666504,
+    "source": "auto:row23"
+  },
+  {
+    "timestamp": "2026-03-07 15:19:38",
+    "cnn_result": "Generic",
+    "cnn_confidence": 0.7310711741447449,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.8686227798461914,
+    "source": "auto:row24"
+  },
+  {
+    "timestamp": "2026-03-07 15:19:41",
+    "cnn_result": "Generic",
+    "cnn_confidence": 0.7278589010238647,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.8081982731819153,
+    "source": "auto:row25"
+  },
+  {
+    "timestamp": "2026-03-07 15:19:45",
+    "cnn_result": "Backdoor",
+    "cnn_confidence": 0.8316258788108826,
+    "lstm_result": "Backdoor",
+    "lstm_confidence": 0.9988100528717041,
+    "source": "auto:row26"
+  },
+  {
+    "timestamp": "2026-03-07 15:19:48",
+    "cnn_result": "Backdoor",
+    "cnn_confidence": 0.237592875957489,
+    "lstm_result": "Reconnaissance",
+    "lstm_confidence": 0.7236023545265198,
+    "source": "auto:row27"
+  },
+  {
+    "timestamp": "2026-03-07 15:19:52",
+    "cnn_result": "Generic",
+    "cnn_confidence": 0.27845194935798645,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.7021476626396179,
+    "source": "auto:row28"
+  },
+  {
+    "timestamp": "2026-03-07 15:22:04",
+    "cnn_result": "Normal",
+    "cnn_confidence": 0.3284089267253876,
+    "lstm_result": "Shellcode",
+    "lstm_confidence": 0.9343015551567078,
+    "source": "manual"
+  },
+  {
+    "timestamp": "2026-03-07 15:26:04",
+    "cnn_result": "Shellcode",
+    "cnn_confidence": 1.0,
+    "lstm_result": "Analysis",
+    "lstm_confidence": 1.0,
+    "source": "manual"
+  },
+  {
+    "timestamp": "2026-03-07 15:35:00",
+    "cnn_result": "DoS",
+    "cnn_confidence": 0.9999994039535522,
+    "lstm_result": "Reconnaissance",
+    "lstm_confidence": 1.0,
+    "source": "manual"
+  },
+  {
+    "timestamp": "2026-03-07 15:35:13",
+    "cnn_result": "Normal",
+    "cnn_confidence": 0.9244112968444824,
+    "lstm_result": "Normal",
+    "lstm_confidence": 0.9806124567985535,
+    "source": "auto:row0"
+  },
+  {
+    "timestamp": "2026-03-07 15:35:16",
+    "cnn_result": "Backdoor",
+    "cnn_confidence": 0.6252207159996033,
+    "lstm_result": "Backdoor",
+    "lstm_confidence": 0.8838767409324646,
+    "source": "auto:row1"
+  },
+  {
+    "timestamp": "2026-03-07 15:35:20",
+    "cnn_result": "Backdoor",
+    "cnn_confidence": 0.5383123159408569,
+    "lstm_result": "Backdoor",
+    "lstm_confidence": 0.7684677839279175,
+    "source": "auto:row2"
+  },
+  {
+    "timestamp": "2026-03-07 15:35:25",
+    "cnn_result": "DoS",
+    "cnn_confidence": 0.892731785774231,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.9842895865440369,
+    "source": "auto:row3"
+  },
+  {
+    "timestamp": "2026-03-07 15:35:29",
+    "cnn_result": "Fuzzers",
+    "cnn_confidence": 0.7260243892669678,
+    "lstm_result": "Fuzzers",
+    "lstm_confidence": 0.33173519372940063,
+    "source": "auto:row4"
+  },
+  {
+    "timestamp": "2026-04-07 23:33:47",
+    "cnn_result": "Normal",
+    "cnn_confidence": 0.9244112968444824,
+    "lstm_result": "Normal",
+    "lstm_confidence": 0.9806124567985535,
+    "source": "auto:row0"
+  },
+  {
+    "timestamp": "2026-04-07 23:33:50",
+    "cnn_result": "Backdoor",
+    "cnn_confidence": 0.6252203583717346,
+    "lstm_result": "Backdoor",
+    "lstm_confidence": 0.8838767409324646,
+    "source": "auto:row1"
+  },
+  {
+    "timestamp": "2026-04-07 23:33:53",
+    "cnn_result": "Backdoor",
+    "cnn_confidence": 0.5383123159408569,
+    "lstm_result": "Backdoor",
+    "lstm_confidence": 0.7684677243232727,
+    "source": "auto:row2"
+  },
+  {
+    "timestamp": "2026-04-07 23:33:56",
+    "cnn_result": "DoS",
+    "cnn_confidence": 0.8927319049835205,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.9842895865440369,
+    "source": "auto:row3"
+  },
+  {
+    "timestamp": "2026-04-07 23:33:59",
+    "cnn_result": "Fuzzers",
+    "cnn_confidence": 0.7260242700576782,
+    "lstm_result": "Fuzzers",
+    "lstm_confidence": 0.33173519372940063,
+    "source": "auto:row4"
+  },
+  {
+    "timestamp": "2026-04-07 23:34:02",
+    "cnn_result": "DoS",
+    "cnn_confidence": 0.8853550553321838,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.9817324280738831,
+    "source": "auto:row5"
+  },
+  {
+    "timestamp": "2026-04-07 23:34:05",
+    "cnn_result": "DoS",
+    "cnn_confidence": 0.8747127652168274,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.9820647835731506,
+    "source": "auto:row6"
+  },
+  {
+    "timestamp": "2026-04-07 23:39:21",
+    "cnn_result": "Normal",
+    "cnn_confidence": 0.9244112968444824,
+    "lstm_result": "Normal",
+    "lstm_confidence": 0.9806124567985535,
+    "source": "auto:row0"
+  },
+  {
+    "timestamp": "2026-04-07 23:39:24",
+    "cnn_result": "Backdoor",
+    "cnn_confidence": 0.6252203583717346,
+    "lstm_result": "Backdoor",
+    "lstm_confidence": 0.8838767409324646,
+    "source": "auto:row1"
+  },
+  {
+    "timestamp": "2026-04-07 23:39:27",
+    "cnn_result": "Backdoor",
+    "cnn_confidence": 0.5383123159408569,
+    "lstm_result": "Backdoor",
+    "lstm_confidence": 0.7684677243232727,
+    "source": "auto:row2"
+  },
+  {
+    "timestamp": "2026-04-07 23:39:30",
+    "cnn_result": "DoS",
+    "cnn_confidence": 0.8927319049835205,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.9842895865440369,
+    "source": "auto:row3"
+  },
+  {
+    "timestamp": "2026-04-07 23:39:33",
+    "cnn_result": "Fuzzers",
+    "cnn_confidence": 0.7260242700576782,
+    "lstm_result": "Fuzzers",
+    "lstm_confidence": 0.33173519372940063,
+    "source": "auto:row4"
+  },
+  {
+    "timestamp": "2026-04-07 23:39:36",
+    "cnn_result": "DoS",
+    "cnn_confidence": 0.8853550553321838,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.9817324280738831,
+    "source": "auto:row5"
+  },
+  {
+    "timestamp": "2026-04-07 23:39:46",
+    "cnn_result": "DoS",
+    "cnn_confidence": 0.8853550553321838,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.9817324280738831,
+    "source": "auto:row5"
+  },
+  {
+    "timestamp": "2026-04-07 23:39:52",
+    "cnn_result": "DoS",
+    "cnn_confidence": 0.8747127652168274,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.9820647835731506,
+    "source": "auto:row6"
+  },
+  {
+    "timestamp": "2026-04-07 23:39:58",
+    "cnn_result": "Normal",
+    "cnn_confidence": 0.9724460244178772,
+    "lstm_result": "Normal",
+    "lstm_confidence": 0.9978674650192261,
+    "source": "auto:row7"
+  },
+  {
+    "timestamp": "2026-04-07 23:40:04",
+    "cnn_result": "Shellcode",
+    "cnn_confidence": 0.9931787252426147,
+    "lstm_result": "Shellcode",
+    "lstm_confidence": 0.9999960660934448,
+    "source": "auto:row8"
+  },
+  {
+    "timestamp": "2026-04-07 23:41:12",
+    "cnn_result": "Exploits",
+    "cnn_confidence": 0.3539861738681793,
+    "lstm_result": "Shellcode",
+    "lstm_confidence": 0.5986830592155457,
+    "source": "manual"
+  },
+  {
+    "timestamp": "2026-04-07 23:41:51",
+    "cnn_result": "Normal",
+    "cnn_confidence": 0.6997198462486267,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.9487380385398865,
+    "source": "manual"
+  },
+  {
+    "timestamp": "2026-04-08 11:28:24",
+    "cnn_result": "Normal",
+    "cnn_confidence": 0.9244112968444824,
+    "lstm_result": "Normal",
+    "lstm_confidence": 0.9806124567985535,
+    "source": "auto:row0"
+  },
+  {
+    "timestamp": "2026-04-08 11:28:28",
+    "cnn_result": "Backdoor",
+    "cnn_confidence": 0.6252203583717346,
+    "lstm_result": "Backdoor",
+    "lstm_confidence": 0.8838767409324646,
+    "source": "auto:row1"
+  },
+  {
+    "timestamp": "2026-04-08 11:28:34",
+    "cnn_result": "Backdoor",
+    "cnn_confidence": 0.5383123159408569,
+    "lstm_result": "Backdoor",
+    "lstm_confidence": 0.7684677243232727,
+    "source": "auto:row2"
+  },
+  {
+    "timestamp": "2026-04-08 11:28:38",
+    "cnn_result": "DoS",
+    "cnn_confidence": 0.8927319049835205,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.9842895865440369,
+    "source": "auto:row3"
+  },
+  {
+    "timestamp": "2026-04-08 11:28:43",
+    "cnn_result": "Fuzzers",
+    "cnn_confidence": 0.7260242700576782,
+    "lstm_result": "Fuzzers",
+    "lstm_confidence": 0.33173519372940063,
+    "source": "auto:row4"
+  },
+  {
+    "timestamp": "2026-04-08 11:28:48",
+    "cnn_result": "DoS",
+    "cnn_confidence": 0.8853550553321838,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.9817324280738831,
+    "source": "auto:row5"
+  },
+  {
+    "timestamp": "2026-04-08 11:29:37",
+    "cnn_result": "DoS",
+    "cnn_confidence": 0.8747127652168274,
+    "lstm_result": "DoS",
+    "lstm_confidence": 0.9820647835731506,
+    "source": "auto:row6"
+  },
+  {
+    "timestamp": "2026-04-08 11:29:40",
+    "cnn_result": "Normal",
+    "cnn_confidence": 0.9724460244178772,
+    "lstm_result": "Normal",
+    "lstm_confidence": 0.9978674650192261,
+    "source": "auto:row7"
+  },
+  {
+    "timestamp": "2026-04-08 11:29:43",
+    "cnn_result": "Shellcode",
+    "cnn_confidence": 0.9931787252426147,
+    "lstm_result": "Shellcode",
+    "lstm_confidence": 0.9999960660934448,
+    "source": "auto:row8"
+  },
+  {
+    "timestamp": "2026-04-08 11:29:46",
+    "cnn_result": "Backdoor",
+    "cnn_confidence": 0.8298251032829285,
+    "lstm_result": "Backdoor",
+    "lstm_confidence": 0.9974616765975952,
+    "source": "auto:row9"
+  },
+  {
+    "timestamp": "2026-04-08 11:29:47",
+    "cnn_result": "Shellcode",
+    "cnn_confidence": 0.9902796149253845,
+    "lstm_result": "Shellcode",
+    "lstm_confidence": 0.9999902248382568,
+    "source": "auto:row10"
+  },
+  {
+    "timestamp": "2026-04-08 11:29:47",
+    "cnn_result": "Shellcode",
+    "cnn_confidence": 0.9902796149253845,
+    "lstm_result": "Shellcode",
+    "lstm_confidence": 0.9999902248382568,
+    "source": "auto:row10"
+  },
+  {
+    "timestamp": "2026-04-08 11:29:48",
+    "cnn_result": "Shellcode",
+    "cnn_confidence": 0.9902796149253845,
+    "lstm_result": "Shellcode",
+    "lstm_confidence": 0.9999902248382568,
+    "source": "auto:row10"
+  },
+  {
+    "timestamp": "2026-04-08 11:29:48",
+    "cnn_result": "Shellcode",
+    "cnn_confidence": 0.9902796149253845,
+    "lstm_result": "Shellcode",
+    "lstm_confidence": 0.9999902248382568,
+    "source": "auto:row10"
+  }
+]

@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Sensitive: likely holds login data for the Streamlit app
+users.json
+
+# Large files: uncomment any that are over ~50 MB
+# Demo.mp4
+# balanced_sampled.csv
+# *.h5
+# *.keras
